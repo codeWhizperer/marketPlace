@@ -1,0 +1,20 @@
+{
+  "abi": [],
+  "bytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "deployedBytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "ast": {
+    "absolutePath": "src/test/Contract.t.sol",
+    "id": 2394,
+    "exportedSymbols": {},
+    "nodeType": "SourceUnit",
+    "src": "1921:0:12",
+    "license": "UNLICENSED"
+  },
+  "id": 12
+}
